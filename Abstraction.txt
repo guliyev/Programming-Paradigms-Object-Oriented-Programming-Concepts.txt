@@ -1,0 +1,5 @@
+Abstract sinifler içerisinde normal yeni içi dolu metodların,deyişkenlerin ve interface’lerdeki kimi abstract (boş) metodların esaslandirma yapılardır.
+Bu sinifler new kelimesi ile emele gelmez.
+Ani sekilde programa kecek misal olaraq  masinlarla elaqelı inkisaf etdirdiyimiz bir programimiz olsun. 
+Sistemimizde olan ferqli marka masinlara ait bezı özellikleri ekranda göstersin.
+Masinlar ağırlık,reng,model kimi ortaq özellikleri ve cant qalınlığı,at sayısı kimi ozlerine aid xusisi özelliklere movcuddur.
