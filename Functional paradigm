@@ -1,0 +1,11 @@
+Programlama dillerinden birisi olan funksiyonal programlama günümüz dillerinin hardasa yarisindan coxunda islenmekdedr. Bu na nezeren riyazi funksiyonlarında olduğuna oxsar bir şekilde alt programlar gosterilmekdedir ve bu alt programların deyişik arqumentler ile çalışması temin edilmekdedir. Bu yanasma sadece:
+
+Kod tekrarının qarsini almaq ve eynı kodun ferqlı şertler uçun tekrar tekrar islemesini temin etmekdir.
+Kodun oxunmasi ucun artirmaqda ve kod analizini daha asant hala getirmekdir..
+Programın hazirlanmasi merhelesinde dizayner modular yaxinlasma etmesini teskil etmekdedir.
+Bir dilin funksiyonal olması dilde funksiyon veya prosudura oxsar xusisiyyetlerin olmasi ile temin edilir. Bu özellikleri tesvir etmek lazimdirsa:
+
+Sıfır veya daha artiq argument ile giriş edilen
+Sıfır veya daha artiq argument ile çıkış edebilen
+Daxili duzelisde dilin icaze verdiği alt programları saxlayan bir sistemdir.
+Yukarıdaki bu maddeleri bir qara qutu (blackbox) yaxinlasmasi olaraq da düşüne bilerik. Yeni alt programların, col dünya ile (programın geri qalanı ile) olan tek bağlanmalari almış olduqları ve geri cevirmis   olduqları argumentlerdir (paramatrelerdir).
