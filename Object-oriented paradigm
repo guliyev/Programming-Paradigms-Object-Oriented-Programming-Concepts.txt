@@ -1,0 +1,8 @@
+Adından da gorunduyu  kimi nesne esasli bir programlama texniki deye bilerik.
+Daha acik sekilde desek ; bizler adeten programlarımızda kodlar yazarken bezı zamanlar olur ki eynı kodu başqa bir yerde isletmemiz lazimdir. Ve erinmeden,tenbellesmeden tekrar yazırdik. 
+Artıq bele birşey yoxdur. Kodlarımızı derece içerisinde yazaraq daha istifade si rahat hala getiririk.
+Fikirlesin; 1 mekteb var,mektebin içersinde onlarca sinif,sinifin içerisinde onlarca sagird. 
+Indi bura da; Mekteb=proyektimiz, sinif=class , mektebli = obyekt. Bir mektebliye catmaq  uçun en suretli yol nedir diye sorussalar , cox guman ki haminiz, 
+Mektebin içerisindeki sinifler,oradan da   mektebliye deyirik.
+Ve bu mekteblinin Riyaziyyat,Ana dili kimi derslerini işleye bildiyi kimi eynı mekteblini başqa yerde istifade ederek (otelya binasında) programlama dersine de girebiler.
+Qısacası mektebli yeni obyektimiz her yerde rahatlıqla hereket ede biler. 
