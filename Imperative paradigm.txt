@@ -1,0 +1,16 @@
+# Programming-Paradigms-Object-Oriented-Programming-Concepts.
+
+Imperative paradigm   - Program dilindeki verilen emrleri setirler halinda yazilaraq emrleri icra eden bir proqram dilidir.Adeten robotlarda ve texnikalarda istifade olurnur.Meselen - 
+                                                     * - Eyil
+                                                     * - Qalx
+                                                     * - Otur 
+                                                     * - Dur
+Bu kimi daixili emrleri vererken setir setir yazilmasi gerekmekdedir.Adeten buna prosuder adlandirirlar
+Emirli programlamanın aciklamasi olarak tam zıddı ise tanımlamalı programlamadır (veya bildirimli programlamadır , declarative programming). Bu yanasmaya  göre bir programı yaradan parçalar mueyyen bir meqsede uygun kodlanır. Misal olarak yukarıdaki kimi davam edersek  bir robot programlamasinda bir otaqdaki bir stolun ustunde  dayanan topu goturmek ucun:
+                                                                                                * - Qapini aç.
+                                                                                                * - Qapıdan gir.
+                                                                                                * - Stolu teyin et.
+                                                                                                * - Stola yaxinlas.
+                                                                                                * - Topu tap.
+                                                                                                * - Topu gotur.
+Emirli programlamadaki her funksiyon belli bir başqa emirin alt parçalarıdır ve daimi olarak programcının emir vermesi lazimdir.
