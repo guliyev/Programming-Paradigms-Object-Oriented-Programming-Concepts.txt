@@ -1,0 +1,8 @@
+public: Sistemdeki bütün siniflerin elaqe qurmasini teskil edir. Sadece eynı proyekt içinden deyil, diger proyektlerde de elaqesini teskil edir.
+private: Bir "xusisiyyet (property)"in veya "metod"un sadece tanımlandığı sinifden elaqe qurmasini teskil edilmesine yardimci olur.
+Yaradilan sinif veya obyektlerin "public" olması açık bir şekilde gostermez , qiymetlendiren terefından "private" olaraq qeyd edilir.
+internal: 
+Aynı qiymetlendirici (assembly) içinde olan butun siniflerden elaqe teskil olunur. 
+protected: Sadece tanıdigi sinifin içinde ve o sinifden erseye gelmis diger siniflerin içinde elaqe qurula bilir.
+Kapsülleme "private" deyiskenlerin  metodlar kimi istifade olunmasina komek edir. 
+Oxuma (Read Only) Emeliyatinin  yaninda oxuma - yazma (read - write) Emeliyatinin duzelmesini temin edir.
